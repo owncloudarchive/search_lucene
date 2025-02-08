@@ -1,2 +1,1 @@
-# search_lucene
-Owncloud bugbounty POC
+# Owncloud bugbounty POC
